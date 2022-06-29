@@ -1,2 +1,4 @@
 Ya pervaya stroka
 Ya vtoraya stroka
+Ya tretya stroka
+Ya chetvertaya stroka
